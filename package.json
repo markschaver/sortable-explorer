@@ -3,7 +3,7 @@
   "displayName": "%displayName%",
   "description": "%description%",
   "version": "0.2.5",
-  "publisher": "memorylovers",
+  "publisher": "markschaver",
   "icon": "resources/icon.png",
   "categories": [
     "Other"
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/memorylovers/sortable-explorer"
+    "url": "https://github.com/markschaver/sortable-explorer"
   },
   "funding": "https://github.com/sponsors/memory-lovers",
   "sponsor": {
